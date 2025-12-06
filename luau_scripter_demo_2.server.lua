@@ -1,6 +1,5 @@
 
 -- luau_scripter_demo.server.lua
--- Single-file Luau demo showcasing intermediate-to-advanced Luau skills
 -- Focus: Metatables, CFrame math, physics, Raycasting, coroutines, events, optimization patterns
 -- Author: Bootysniffer23
 -- Place inside ServerScriptService
