@@ -2,7 +2,7 @@
 -- luau_scripter_demo.server.lua
 -- Single-file Luau demo: intermediate systems, CFrame math, physics, metatables, coroutines, events
 -- Place this Script inside ServerScriptService in Roblox Studio.
--- Author: <YourName>
+-- Author: Bootysniffer23
 -- Purpose: Demonstrate Luau skills for application — gameplay systems, optimization patterns, and clear comments.
 
 local RunService = game:GetService("RunService")
